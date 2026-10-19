@@ -4,7 +4,7 @@ Algoritmo Salario
 	leer H
 	Escribir "ingrese valor por cada hora de trabajo"
 	leer V
-	multiplicacion = a*b
-	Escribir "su valor a pagar es:", H*V
+	salPag = H*V
+	Escribir "su valor a pagar es:", salPag
 	
 FinAlgoritmo
