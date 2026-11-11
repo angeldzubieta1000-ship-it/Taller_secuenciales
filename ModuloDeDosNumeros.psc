@@ -1,7 +1,7 @@
 Algoritmo ModuloDeDosNumeros
 	Definir num1, num2, resultado Como Entero
 	
-	Escribir "Ingrese el primero numero:"
+	Escribir "Ingrese el primer numero:"
 	Leer num1
 	
 	Escribir "Ingrese el segundo numero:"
