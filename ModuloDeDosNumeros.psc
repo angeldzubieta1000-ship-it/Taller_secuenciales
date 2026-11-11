@@ -7,7 +7,7 @@ Algoritmo ModuloDeDosNumeros
 	Escribir "Ingrese el segundo numero:"
 	Leer num2
 	
-	resultado <- num1 MOD num2
+	resultado = num1 MOD num2
 	
 	Escribir "El modulo de ", num1, " y ", num2, " es: ", resultado
 	
